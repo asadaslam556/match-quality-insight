@@ -1,17 +1,67 @@
 # Match Quality Insight
 
-An AI Quality Dashboard for the two scoring systems behind candidate matching: a
-deterministic rule-based matcher and an advisory LLM reviewer. It loads the source data
-into PostgreSQL, computes quality metrics through a REST API, and presents them in a React
+An AI quality dashboard for the two scoring systems behind candidate matching: a
+deterministic rule-based matcher and an advisory LLM reviewer. It loads the source data into
+PostgreSQL, computes quality metrics through a REST API, and presents them in a React
 dashboard.
 
-**The findings are in [ANALYSIS.md](ANALYSIS.md).** Read that first. This file covers how
-to run the project and how it is put together.
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-ready-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-The headline: measured across all job families the LLM scorer looks better than the rule
-scorer (AUC 0.724 against 0.689). That ranking is caused by a bug in one job family.
-Excluding Healthcare, the rule scorer wins (0.782 against 0.729) and does so in four of the
-five families.
+```bash
+git clone https://github.com/asadaslam556/match-quality-insight.git
+cd match-quality-insight
+docker compose up --build
+```
+
+Then open <http://localhost:5173>. Nothing else needs installing, and nothing needs
+configuring. The stack brings its own PostgreSQL, loads the four CSVs on start, and serves
+the dashboard.
+
+> **On Windows?** [COMMANDS.md](COMMANDS.md) has every step written out in full for
+> PowerShell, including PostgreSQL installation, verification and cache clearing.
+
+---
+
+## The headline
+
+Measured across all job families, the LLM scorer looks better than the rule scorer
+(AUC 0.724 against 0.689). **That ranking is an artefact of a bug in one job family.**
+Excluding Healthcare, the rule scorer wins at 0.782 against 0.729, and it wins in four of
+the five families.
+
+A decision to lean harder on the LLM, taken on the pooled number, would have been based on
+a defect rather than on evidence. That reversal is Finding 1.
+
+| | Finding | Evidence |
+|---|---|---|
+| 1 | The rule scorer is broken for Healthcare, and it inverts the platform-level verdict | All 1,363 Healthcare applications bucketed `low`, max score 0.305 against a 0.5 cut-off, while converting at the platform average |
+| 2 | The LLM scores candidates highest when it knows least about them | Mean 74.0 below 0.4 profile completeness against 61.7 above it, and those candidates convert worse, 48.0% against 53.3% |
+| 3 | scorer-v2 inflated every score and bought no accuracy | Mean +7.8, AUC 0.731 to 0.727, flag rate at threshold 70 up from 29.6% to 49.3% at 5.9pp lower precision |
+| 4 | The LLM gives Austrian candidates an unjustified bonus | AT 69.0 against DE 62.6, surviving every control, on outcome rates of 53.6% and 51.9% |
+| 5 | Recruiter trust in the AI panel fell, and the obvious explanation is wrong | AI score views down about 10 points while profile opens held flat, but the break is Dec/Jan and v2 shipped in March |
+
+**Full write-up with per-finding improvement proposals: [ANALYSIS.md](ANALYSIS.md).**
+
+---
+
+## The dashboard
+
+**Overview**: headline metrics, the release quality gate, and the three charts that each
+carry a finding.
+
+![Overview page](docs/dashboard-overview.png)
+
+**Segments**: the drill-down, switchable across job family, profile completeness, country,
+model version and seniority. Healthcare's 100% `low` bucketing is flagged in red.
+
+![Segments page](docs/dashboard-segments.png)
 
 ---
 
@@ -21,11 +71,8 @@ five families.
 
 You need [Docker Desktop](https://www.docker.com/products/docker-desktop/). Nothing else.
 
-> **On Windows?** [COMMANDS.md](COMMANDS.md) has every step written out in full for
-> PowerShell, including PostgreSQL installation, verification and cache clearing.
-
 ```bash
-git clone <this-repo>
+git clone https://github.com/asadaslam556/match-quality-insight.git
 cd match-quality-insight
 docker compose up --build
 ```
