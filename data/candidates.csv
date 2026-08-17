@@ -1,0 +1,1501 @@
+candidate_id,country,years_experience,preferred_job_family,profile_completeness
+C00001,DE,10,Healthcare,0.65
+C00002,AT,4,Healthcare,0.77
+C00003,AT,12,IT,0.31
+C00004,DE,9,Manufacturing,0.54
+C00005,DE,7,Logistics,0.67
+C00006,DE,4,Logistics,0.51
+C00007,DE,18,Manufacturing,0.25
+C00008,AT,2,Manufacturing,0.32
+C00009,DE,11,Manufacturing,0.81
+C00010,AT,12,IT,0.74
+C00011,DE,4,IT,0.63
+C00012,AT,10,Office & Admin,0.47
+C00013,DE,5,Logistics,0.92
+C00014,DE,11,Healthcare,0.74
+C00015,DE,1,Logistics,0.77
+C00016,DE,0,Healthcare,0.7
+C00017,DE,13,IT,0.7
+C00018,DE,15,IT,0.81
+C00019,DE,1,Healthcare,0.18
+C00020,DE,4,Manufacturing,0.79
+C00021,AT,10,Manufacturing,0.59
+C00022,DE,0,Healthcare,0.57
+C00023,DE,11,Logistics,0.89
+C00024,AT,12,Office & Admin,0.58
+C00025,DE,13,Logistics,0.27
+C00026,AT,3,Office & Admin,0.38
+C00027,DE,16,Office & Admin,0.66
+C00028,DE,19,IT,0.84
+C00029,AT,3,Logistics,0.5
+C00030,DE,6,IT,0.68
+C00031,DE,5,Logistics,0.25
+C00032,AT,17,Manufacturing,0.52
+C00033,DE,0,Logistics,0.9
+C00034,DE,9,Logistics,0.77
+C00035,DE,5,Office & Admin,0.78
+C00036,DE,8,Healthcare,0.61
+C00037,DE,6,Logistics,0.75
+C00038,AT,18,IT,0.13
+C00039,DE,17,Manufacturing,0.86
+C00040,DE,6,Logistics,0.75
+C00041,AT,18,Manufacturing,0.94
+C00042,DE,11,IT,0.35
+C00043,AT,10,Manufacturing,0.27
+C00044,AT,15,IT,0.42
+C00045,DE,4,IT,0.48
+C00046,DE,24,Logistics,0.64
+C00047,DE,12,Logistics,0.7
+C00048,DE,10,Office & Admin,0.36
+C00049,DE,7,Office & Admin,0.49
+C00050,DE,10,Office & Admin,0.49
+C00051,AT,7,Logistics,0.14
+C00052,DE,16,Office & Admin,0.5
+C00053,DE,1,Office & Admin,0.65
+C00054,DE,0,Office & Admin,0.53
+C00055,DE,8,Office & Admin,0.44
+C00056,DE,2,Logistics,0.6
+C00057,DE,10,Logistics,0.61
+C00058,DE,12,IT,0.56
+C00059,DE,3,Logistics,0.88
+C00060,AT,18,Manufacturing,0.9
+C00061,DE,0,Healthcare,0.91
+C00062,AT,7,Manufacturing,0.27
+C00063,AT,2,Logistics,0.59
+C00064,DE,6,Manufacturing,0.78
+C00065,DE,0,IT,0.95
+C00066,DE,14,Logistics,0.99
+C00067,AT,14,Manufacturing,0.1
+C00068,AT,8,Office & Admin,0.81
+C00069,DE,11,Manufacturing,0.75
+C00070,DE,9,Logistics,0.71
+C00071,DE,1,Office & Admin,0.76
+C00072,AT,15,Manufacturing,0.81
+C00073,DE,15,Logistics,0.86
+C00074,DE,7,Healthcare,0.91
+C00075,DE,15,Office & Admin,0.74
+C00076,DE,10,Healthcare,0.8
+C00077,AT,10,Manufacturing,0.38
+C00078,DE,15,Logistics,0.78
+C00079,DE,2,Logistics,0.84
+C00080,DE,0,Healthcare,0.48
+C00081,AT,10,Office & Admin,0.61
+C00082,DE,8,IT,0.22
+C00083,AT,8,Office & Admin,0.95
+C00084,AT,15,Office & Admin,0.66
+C00085,DE,1,Logistics,0.97
+C00086,DE,9,Manufacturing,0.32
+C00087,AT,11,Manufacturing,0.9
+C00088,AT,10,Logistics,0.64
+C00089,AT,5,Logistics,0.56
+C00090,DE,11,Office & Admin,0.45
+C00091,DE,18,Healthcare,0.54
+C00092,DE,14,Logistics,0.18
+C00093,DE,12,Logistics,0.79
+C00094,DE,10,IT,0.37
+C00095,DE,12,IT,0.93
+C00096,AT,6,Logistics,0.31
+C00097,DE,10,Manufacturing,0.78
+C00098,DE,6,Logistics,0.61
+C00099,DE,9,Office & Admin,0.66
+C00100,AT,4,Office & Admin,0.52
+C00101,AT,7,Healthcare,0.94
+C00102,DE,8,Manufacturing,0.77
+C00103,AT,12,Logistics,0.3
+C00104,DE,8,Healthcare,0.1
+C00105,DE,10,IT,0.86
+C00106,AT,1,Manufacturing,0.99
+C00107,DE,13,Manufacturing,0.94
+C00108,AT,5,Manufacturing,0.65
+C00109,AT,0,IT,0.38
+C00110,DE,15,Manufacturing,0.9
+C00111,DE,3,Logistics,0.82
+C00112,DE,4,Logistics,0.64
+C00113,DE,14,Logistics,0.82
+C00114,DE,14,Logistics,0.78
+C00115,DE,7,Logistics,0.81
+C00116,DE,3,Manufacturing,0.48
+C00117,AT,13,IT,0.22
+C00118,AT,5,Logistics,0.94
+C00119,DE,17,Logistics,0.66
+C00120,AT,5,Manufacturing,0.81
+C00121,AT,16,Healthcare,0.65
+C00122,DE,9,Logistics,0.86
+C00123,DE,3,IT,0.53
+C00124,DE,2,Logistics,0.48
+C00125,AT,0,Logistics,0.67
+C00126,DE,13,Office & Admin,0.49
+C00127,DE,12,Office & Admin,0.25
+C00128,DE,7,Healthcare,0.12
+C00129,DE,11,Office & Admin,0.86
+C00130,DE,8,Manufacturing,0.74
+C00131,DE,6,Logistics,0.39
+C00132,DE,13,Logistics,0.81
+C00133,DE,4,Logistics,0.97
+C00134,DE,11,Office & Admin,0.1
+C00135,DE,5,IT,0.35
+C00136,DE,12,Manufacturing,0.88
+C00137,AT,8,IT,0.1
+C00138,AT,11,Healthcare,0.82
+C00139,DE,8,IT,0.95
+C00140,DE,11,IT,0.83
+C00141,DE,11,Healthcare,0.84
+C00142,DE,15,Manufacturing,0.23
+C00143,AT,2,Healthcare,0.6
+C00144,DE,11,Manufacturing,0.81
+C00145,DE,3,Logistics,0.34
+C00146,AT,3,IT,0.24
+C00147,DE,9,Logistics,0.91
+C00148,DE,21,Manufacturing,0.57
+C00149,DE,0,Logistics,0.25
+C00150,DE,8,Logistics,0.41
+C00151,DE,6,Logistics,0.89
+C00152,DE,0,Manufacturing,0.52
+C00153,DE,7,Office & Admin,0.72
+C00154,DE,15,Manufacturing,0.92
+C00155,DE,7,Logistics,0.89
+C00156,DE,1,Manufacturing,0.36
+C00157,DE,4,Office & Admin,0.84
+C00158,DE,22,IT,0.6
+C00159,DE,5,Office & Admin,0.69
+C00160,AT,1,IT,0.69
+C00161,DE,6,Healthcare,0.47
+C00162,DE,7,Logistics,0.99
+C00163,DE,2,Office & Admin,0.73
+C00164,DE,4,Healthcare,0.38
+C00165,AT,6,Healthcare,0.19
+C00166,DE,10,Logistics,0.73
+C00167,AT,14,Logistics,0.88
+C00168,DE,7,Logistics,0.53
+C00169,DE,14,Manufacturing,0.13
+C00170,AT,6,Manufacturing,0.9
+C00171,DE,3,Logistics,0.1
+C00172,DE,9,Office & Admin,0.71
+C00173,AT,9,Logistics,0.91
+C00174,DE,7,Logistics,0.47
+C00175,DE,10,Manufacturing,0.99
+C00176,DE,11,Manufacturing,0.36
+C00177,DE,4,IT,0.89
+C00178,DE,10,Manufacturing,0.6
+C00179,DE,0,Logistics,0.3
+C00180,DE,12,Manufacturing,0.36
+C00181,DE,3,Manufacturing,0.51
+C00182,AT,7,Logistics,0.35
+C00183,AT,9,Logistics,0.4
+C00184,AT,0,Healthcare,0.82
+C00185,AT,4,Logistics,0.78
+C00186,DE,0,Healthcare,0.51
+C00187,DE,9,Logistics,0.45
+C00188,DE,10,IT,0.83
+C00189,DE,7,Office & Admin,0.6
+C00190,DE,13,Healthcare,0.53
+C00191,DE,0,IT,0.62
+C00192,DE,7,Manufacturing,0.73
+C00193,DE,2,Office & Admin,0.38
+C00194,AT,14,Healthcare,0.36
+C00195,DE,16,Manufacturing,0.82
+C00196,DE,2,Logistics,0.61
+C00197,AT,8,Manufacturing,0.98
+C00198,AT,1,Manufacturing,0.42
+C00199,DE,17,Manufacturing,0.3
+C00200,AT,3,Manufacturing,0.11
+C00201,DE,9,Office & Admin,0.56
+C00202,DE,16,Manufacturing,0.69
+C00203,AT,8,Office & Admin,0.43
+C00204,DE,7,Healthcare,0.41
+C00205,DE,6,Office & Admin,0.68
+C00206,DE,0,Office & Admin,0.67
+C00207,DE,6,Office & Admin,0.73
+C00208,DE,1,Logistics,0.99
+C00209,AT,10,Healthcare,0.34
+C00210,DE,8,Office & Admin,0.64
+C00211,DE,0,Office & Admin,0.38
+C00212,AT,1,Healthcare,0.67
+C00213,DE,1,Office & Admin,0.68
+C00214,DE,9,Healthcare,0.86
+C00215,DE,7,Logistics,0.91
+C00216,AT,11,IT,0.64
+C00217,AT,4,Manufacturing,0.31
+C00218,DE,15,Healthcare,0.9
+C00219,DE,7,Manufacturing,0.88
+C00220,DE,8,Logistics,0.65
+C00221,DE,8,Office & Admin,0.96
+C00222,DE,2,Manufacturing,0.32
+C00223,DE,4,IT,0.84
+C00224,AT,7,Logistics,0.6
+C00225,DE,7,Office & Admin,0.66
+C00226,AT,0,Logistics,0.83
+C00227,AT,17,IT,0.48
+C00228,DE,4,Manufacturing,0.29
+C00229,DE,0,Healthcare,0.9
+C00230,AT,7,Manufacturing,0.92
+C00231,AT,7,Logistics,0.55
+C00232,DE,8,IT,0.9
+C00233,DE,11,Office & Admin,0.94
+C00234,AT,13,Logistics,0.62
+C00235,DE,16,IT,0.88
+C00236,AT,12,Manufacturing,0.92
+C00237,AT,6,IT,0.94
+C00238,DE,8,Healthcare,0.68
+C00239,DE,6,Manufacturing,0.32
+C00240,AT,13,IT,0.83
+C00241,AT,12,Logistics,0.64
+C00242,DE,12,Office & Admin,0.24
+C00243,AT,3,Healthcare,0.1
+C00244,AT,7,Office & Admin,0.65
+C00245,DE,1,Logistics,0.29
+C00246,DE,4,Manufacturing,0.91
+C00247,DE,14,Healthcare,0.67
+C00248,AT,11,Healthcare,0.9
+C00249,DE,9,Healthcare,0.55
+C00250,DE,13,Logistics,0.7
+C00251,AT,12,IT,0.87
+C00252,AT,11,IT,0.39
+C00253,AT,6,Healthcare,0.56
+C00254,DE,7,Healthcare,0.93
+C00255,AT,17,Office & Admin,0.49
+C00256,DE,7,Healthcare,0.5
+C00257,DE,12,IT,0.85
+C00258,DE,6,Office & Admin,0.94
+C00259,DE,0,Manufacturing,0.65
+C00260,AT,8,Office & Admin,0.67
+C00261,AT,5,Office & Admin,0.86
+C00262,DE,0,Manufacturing,0.23
+C00263,DE,13,Office & Admin,0.65
+C00264,DE,23,Manufacturing,0.62
+C00265,DE,15,Logistics,0.96
+C00266,DE,0,Office & Admin,0.56
+C00267,DE,9,Office & Admin,0.89
+C00268,AT,13,Office & Admin,0.59
+C00269,DE,14,Logistics,0.82
+C00270,DE,5,Manufacturing,0.52
+C00271,DE,8,IT,0.27
+C00272,DE,18,Logistics,0.87
+C00273,DE,13,Logistics,0.3
+C00274,DE,0,Healthcare,0.4
+C00275,DE,6,Manufacturing,0.15
+C00276,DE,12,Manufacturing,0.75
+C00277,DE,5,Office & Admin,0.41
+C00278,DE,7,Logistics,0.71
+C00279,DE,0,Office & Admin,0.86
+C00280,DE,13,Healthcare,0.77
+C00281,DE,14,Logistics,0.96
+C00282,DE,9,IT,0.65
+C00283,AT,8,IT,0.89
+C00284,AT,5,Office & Admin,0.64
+C00285,DE,9,IT,0.56
+C00286,DE,4,Logistics,0.75
+C00287,DE,10,Healthcare,0.94
+C00288,DE,3,Logistics,0.53
+C00289,AT,9,Manufacturing,0.3
+C00290,DE,14,Logistics,0.81
+C00291,DE,9,IT,0.66
+C00292,DE,12,Healthcare,0.53
+C00293,DE,6,Office & Admin,0.89
+C00294,AT,8,Logistics,0.56
+C00295,DE,9,Logistics,0.56
+C00296,AT,4,Healthcare,0.35
+C00297,DE,12,Logistics,0.81
+C00298,AT,7,Healthcare,0.7
+C00299,DE,10,Healthcare,0.49
+C00300,DE,12,Office & Admin,0.86
+C00301,DE,10,Manufacturing,0.48
+C00302,DE,10,Manufacturing,0.92
+C00303,AT,5,Manufacturing,0.61
+C00304,AT,10,Logistics,0.49
+C00305,DE,3,Healthcare,0.75
+C00306,DE,13,Logistics,0.46
+C00307,DE,8,Healthcare,0.77
+C00308,DE,11,Healthcare,0.85
+C00309,DE,5,Healthcare,0.94
+C00310,DE,12,Logistics,0.78
+C00311,DE,7,Logistics,0.66
+C00312,DE,12,Healthcare,0.77
+C00313,AT,12,Logistics,0.34
+C00314,AT,11,Healthcare,0.77
+C00315,DE,1,Logistics,0.91
+C00316,DE,8,Healthcare,0.28
+C00317,AT,7,Healthcare,0.31
+C00318,DE,10,Office & Admin,0.14
+C00319,DE,5,Healthcare,0.39
+C00320,DE,17,IT,0.51
+C00321,DE,9,IT,0.86
+C00322,AT,9,Logistics,0.54
+C00323,DE,11,IT,0.25
+C00324,AT,5,Logistics,0.96
+C00325,DE,11,Healthcare,0.52
+C00326,DE,14,Office & Admin,0.53
+C00327,DE,16,Manufacturing,0.82
+C00328,DE,3,Manufacturing,0.53
+C00329,DE,20,Healthcare,0.83
+C00330,DE,18,IT,0.65
+C00331,DE,1,Healthcare,0.75
+C00332,DE,2,Office & Admin,0.6
+C00333,DE,3,Healthcare,0.89
+C00334,DE,12,Office & Admin,0.7
+C00335,DE,7,IT,0.58
+C00336,DE,5,IT,0.64
+C00337,AT,16,Healthcare,0.27
+C00338,AT,9,Manufacturing,0.72
+C00339,AT,8,Logistics,0.98
+C00340,AT,5,Logistics,0.84
+C00341,AT,5,Manufacturing,0.78
+C00342,DE,6,IT,0.37
+C00343,DE,6,Manufacturing,0.47
+C00344,DE,0,Healthcare,0.2
+C00345,DE,8,Logistics,0.93
+C00346,DE,1,Healthcare,0.65
+C00347,AT,13,Healthcare,0.74
+C00348,DE,2,Manufacturing,0.7
+C00349,DE,11,Healthcare,0.72
+C00350,DE,9,Manufacturing,0.31
+C00351,DE,9,Office & Admin,0.9
+C00352,DE,13,Office & Admin,0.91
+C00353,DE,12,Healthcare,0.27
+C00354,AT,13,Logistics,0.22
+C00355,DE,10,Healthcare,0.61
+C00356,DE,13,IT,0.51
+C00357,DE,12,Manufacturing,0.85
+C00358,DE,0,Manufacturing,0.55
+C00359,DE,12,Healthcare,0.61
+C00360,AT,24,Logistics,0.95
+C00361,DE,16,Healthcare,0.48
+C00362,DE,2,Manufacturing,0.71
+C00363,DE,8,Manufacturing,0.95
+C00364,DE,3,Office & Admin,0.5
+C00365,DE,7,IT,0.81
+C00366,AT,1,Office & Admin,0.47
+C00367,AT,22,IT,0.64
+C00368,DE,4,Healthcare,0.95
+C00369,DE,7,IT,0.59
+C00370,AT,8,Logistics,0.58
+C00371,DE,8,Healthcare,0.19
+C00372,DE,11,Healthcare,0.77
+C00373,DE,5,Office & Admin,0.96
+C00374,DE,0,Manufacturing,0.82
+C00375,AT,11,Logistics,0.76
+C00376,DE,22,Office & Admin,0.88
+C00377,DE,9,Manufacturing,0.5
+C00378,DE,4,Logistics,0.42
+C00379,DE,4,Logistics,0.29
+C00380,DE,14,Healthcare,0.42
+C00381,DE,17,Office & Admin,1.0
+C00382,DE,3,Healthcare,0.85
+C00383,AT,12,Office & Admin,0.91
+C00384,DE,12,IT,0.76
+C00385,DE,17,IT,0.2
+C00386,DE,13,Healthcare,0.61
+C00387,DE,14,Manufacturing,0.78
+C00388,DE,10,Healthcare,0.67
+C00389,DE,14,IT,0.38
+C00390,DE,9,Manufacturing,0.97
+C00391,AT,5,Healthcare,0.77
+C00392,DE,3,Manufacturing,0.78
+C00393,DE,11,Logistics,0.9
+C00394,DE,13,Manufacturing,0.17
+C00395,DE,17,Healthcare,0.62
+C00396,DE,12,Office & Admin,0.69
+C00397,DE,3,Logistics,0.62
+C00398,DE,8,Healthcare,0.97
+C00399,AT,7,Logistics,0.93
+C00400,DE,21,Manufacturing,0.74
+C00401,DE,14,Office & Admin,0.72
+C00402,DE,20,Office & Admin,0.48
+C00403,DE,18,Logistics,0.92
+C00404,DE,13,Logistics,0.79
+C00405,DE,5,Office & Admin,0.65
+C00406,DE,13,Office & Admin,0.61
+C00407,AT,5,Logistics,0.5
+C00408,DE,18,Office & Admin,0.3
+C00409,DE,1,Office & Admin,0.73
+C00410,DE,17,Logistics,0.8
+C00411,DE,11,Manufacturing,0.78
+C00412,DE,0,Healthcare,0.86
+C00413,DE,10,IT,0.9
+C00414,DE,2,IT,0.87
+C00415,DE,13,Healthcare,0.3
+C00416,DE,1,Healthcare,0.86
+C00417,DE,9,Healthcare,0.68
+C00418,DE,13,Manufacturing,0.94
+C00419,DE,5,Logistics,0.96
+C00420,DE,18,Manufacturing,0.28
+C00421,DE,10,Office & Admin,0.64
+C00422,DE,11,IT,0.69
+C00423,DE,12,Logistics,0.89
+C00424,AT,10,Manufacturing,0.54
+C00425,DE,6,Healthcare,0.79
+C00426,DE,11,Healthcare,0.67
+C00427,AT,10,Healthcare,0.84
+C00428,AT,0,Logistics,0.41
+C00429,DE,9,Healthcare,0.91
+C00430,DE,5,Healthcare,0.82
+C00431,DE,14,Logistics,0.26
+C00432,DE,12,IT,0.85
+C00433,DE,8,Office & Admin,0.56
+C00434,AT,25,Office & Admin,0.59
+C00435,DE,12,IT,0.97
+C00436,AT,7,IT,0.42
+C00437,DE,3,Healthcare,0.55
+C00438,DE,19,Healthcare,0.16
+C00439,AT,2,Manufacturing,0.88
+C00440,DE,10,Manufacturing,0.66
+C00441,AT,5,Healthcare,0.42
+C00442,DE,9,Logistics,0.56
+C00443,AT,14,Logistics,0.53
+C00444,DE,9,Logistics,0.97
+C00445,AT,0,Manufacturing,0.52
+C00446,DE,3,Logistics,0.69
+C00447,DE,14,Manufacturing,0.88
+C00448,DE,10,IT,0.32
+C00449,DE,9,Office & Admin,0.36
+C00450,DE,11,IT,0.53
+C00451,DE,12,Logistics,0.68
+C00452,DE,3,Office & Admin,0.83
+C00453,AT,2,Office & Admin,0.67
+C00454,DE,12,Office & Admin,0.66
+C00455,DE,9,Logistics,0.79
+C00456,DE,11,Healthcare,1.0
+C00457,DE,16,Healthcare,0.6
+C00458,DE,4,Manufacturing,0.4
+C00459,DE,18,Manufacturing,0.45
+C00460,DE,20,Manufacturing,0.81
+C00461,DE,8,Manufacturing,0.59
+C00462,DE,2,Healthcare,0.82
+C00463,DE,3,Healthcare,0.8
+C00464,DE,11,IT,0.67
+C00465,DE,0,Logistics,0.37
+C00466,DE,11,Healthcare,0.48
+C00467,DE,10,Office & Admin,0.57
+C00468,AT,7,Office & Admin,0.86
+C00469,DE,17,Healthcare,0.47
+C00470,AT,9,Logistics,0.53
+C00471,DE,7,IT,0.2
+C00472,DE,17,Healthcare,0.72
+C00473,AT,9,Office & Admin,0.63
+C00474,DE,1,Logistics,0.63
+C00475,DE,8,Office & Admin,0.21
+C00476,DE,4,Logistics,0.85
+C00477,DE,3,IT,0.91
+C00478,AT,11,Manufacturing,0.53
+C00479,DE,10,IT,0.46
+C00480,DE,8,Office & Admin,0.46
+C00481,DE,0,Healthcare,0.69
+C00482,AT,24,Manufacturing,0.95
+C00483,AT,4,Manufacturing,0.7
+C00484,AT,0,Healthcare,0.21
+C00485,AT,5,Office & Admin,0.57
+C00486,DE,8,Logistics,0.8
+C00487,AT,6,Logistics,0.92
+C00488,DE,15,Manufacturing,0.88
+C00489,DE,2,IT,0.71
+C00490,AT,11,Healthcare,0.72
+C00491,DE,1,Manufacturing,0.34
+C00492,DE,15,Office & Admin,0.66
+C00493,AT,2,Healthcare,0.65
+C00494,DE,12,Office & Admin,0.63
+C00495,DE,0,Healthcare,0.53
+C00496,AT,20,Healthcare,0.51
+C00497,DE,14,Logistics,0.7
+C00498,DE,1,IT,0.86
+C00499,DE,7,IT,0.59
+C00500,AT,1,Office & Admin,0.74
+C00501,DE,7,Manufacturing,0.76
+C00502,AT,1,Logistics,0.82
+C00503,DE,2,Logistics,0.63
+C00504,DE,6,Office & Admin,0.52
+C00505,DE,13,IT,0.29
+C00506,DE,14,Logistics,0.24
+C00507,DE,10,Logistics,0.81
+C00508,AT,7,Logistics,0.3
+C00509,DE,19,IT,0.28
+C00510,AT,4,Healthcare,0.68
+C00511,AT,27,Office & Admin,0.1
+C00512,AT,6,Logistics,0.31
+C00513,AT,0,Manufacturing,0.82
+C00514,DE,7,Healthcare,0.31
+C00515,AT,13,Manufacturing,0.96
+C00516,AT,10,Logistics,0.83
+C00517,AT,15,Office & Admin,0.2
+C00518,DE,10,Healthcare,0.17
+C00519,AT,3,Healthcare,0.56
+C00520,DE,9,Healthcare,0.39
+C00521,DE,7,Healthcare,0.45
+C00522,DE,10,Manufacturing,0.43
+C00523,AT,12,Logistics,0.8
+C00524,DE,2,Logistics,0.42
+C00525,DE,1,Office & Admin,0.39
+C00526,AT,17,Healthcare,0.38
+C00527,DE,9,Logistics,0.8
+C00528,AT,15,Manufacturing,0.8
+C00529,AT,9,IT,0.51
+C00530,DE,9,Logistics,0.91
+C00531,DE,11,Healthcare,0.56
+C00532,DE,15,Office & Admin,0.5
+C00533,AT,9,IT,0.97
+C00534,AT,3,Healthcare,0.33
+C00535,DE,3,Healthcare,0.52
+C00536,DE,13,Manufacturing,0.56
+C00537,DE,14,Office & Admin,0.36
+C00538,DE,2,Manufacturing,0.48
+C00539,DE,0,Logistics,0.35
+C00540,DE,7,Logistics,0.59
+C00541,AT,17,Logistics,0.52
+C00542,DE,18,IT,0.8
+C00543,DE,10,Office & Admin,0.98
+C00544,DE,11,IT,0.7
+C00545,DE,2,Logistics,0.75
+C00546,AT,3,Healthcare,0.42
+C00547,DE,14,Manufacturing,0.64
+C00548,DE,17,Healthcare,0.93
+C00549,DE,15,Office & Admin,0.18
+C00550,DE,12,Office & Admin,0.61
+C00551,DE,5,IT,0.39
+C00552,DE,16,Office & Admin,0.37
+C00553,DE,3,Manufacturing,0.99
+C00554,DE,15,Office & Admin,0.9
+C00555,AT,4,Office & Admin,0.34
+C00556,DE,10,Manufacturing,0.93
+C00557,AT,12,Manufacturing,0.35
+C00558,AT,5,Healthcare,0.37
+C00559,DE,13,IT,0.77
+C00560,DE,0,Healthcare,0.86
+C00561,DE,15,Healthcare,0.57
+C00562,DE,12,Manufacturing,0.71
+C00563,DE,5,Office & Admin,0.8
+C00564,AT,11,Office & Admin,0.44
+C00565,AT,12,Manufacturing,0.61
+C00566,DE,4,Manufacturing,0.26
+C00567,DE,0,Healthcare,0.94
+C00568,DE,4,Manufacturing,0.82
+C00569,DE,9,IT,0.49
+C00570,DE,21,IT,0.84
+C00571,DE,9,Office & Admin,0.87
+C00572,AT,16,Office & Admin,0.39
+C00573,DE,0,Healthcare,0.49
+C00574,AT,8,Logistics,0.47
+C00575,DE,0,Healthcare,0.88
+C00576,AT,0,Healthcare,0.57
+C00577,DE,10,Healthcare,0.41
+C00578,DE,11,Healthcare,0.68
+C00579,AT,10,Manufacturing,0.69
+C00580,DE,4,Healthcare,0.87
+C00581,AT,11,Manufacturing,0.36
+C00582,AT,5,IT,0.65
+C00583,DE,0,Logistics,0.41
+C00584,DE,5,IT,0.71
+C00585,DE,7,Healthcare,0.73
+C00586,DE,4,Manufacturing,0.49
+C00587,DE,2,IT,0.8
+C00588,AT,4,Logistics,0.68
+C00589,DE,11,Manufacturing,0.39
+C00590,AT,9,Logistics,0.77
+C00591,DE,7,Healthcare,0.85
+C00592,DE,6,IT,0.95
+C00593,DE,5,Manufacturing,0.51
+C00594,DE,4,Logistics,0.98
+C00595,DE,0,Office & Admin,0.86
+C00596,DE,9,IT,0.37
+C00597,AT,6,IT,0.44
+C00598,DE,6,Healthcare,0.16
+C00599,DE,17,Office & Admin,0.49
+C00600,DE,3,IT,0.48
+C00601,DE,8,IT,0.5
+C00602,DE,20,Logistics,0.36
+C00603,DE,2,Logistics,0.93
+C00604,DE,5,IT,0.81
+C00605,DE,9,IT,0.53
+C00606,DE,15,Logistics,0.62
+C00607,DE,13,Manufacturing,0.8
+C00608,DE,8,Manufacturing,0.86
+C00609,DE,5,IT,0.48
+C00610,AT,12,Manufacturing,0.42
+C00611,DE,7,Office & Admin,0.96
+C00612,DE,15,IT,0.68
+C00613,DE,25,Office & Admin,0.48
+C00614,DE,6,Logistics,0.36
+C00615,DE,18,Office & Admin,0.78
+C00616,DE,7,Manufacturing,0.76
+C00617,DE,6,Logistics,0.1
+C00618,DE,17,Logistics,0.76
+C00619,AT,7,Logistics,0.81
+C00620,AT,1,Office & Admin,0.68
+C00621,DE,11,Logistics,0.52
+C00622,AT,9,Office & Admin,0.95
+C00623,DE,4,Office & Admin,0.46
+C00624,DE,1,Logistics,0.7
+C00625,AT,6,Healthcare,0.8
+C00626,AT,10,Logistics,0.52
+C00627,DE,8,Office & Admin,0.88
+C00628,DE,1,Healthcare,0.9
+C00629,DE,16,Manufacturing,0.55
+C00630,AT,14,Logistics,0.45
+C00631,DE,6,Manufacturing,0.88
+C00632,DE,6,Healthcare,0.55
+C00633,AT,14,Manufacturing,0.37
+C00634,DE,0,Logistics,0.24
+C00635,DE,17,Manufacturing,0.95
+C00636,DE,7,Logistics,0.3
+C00637,DE,1,IT,0.4
+C00638,DE,16,IT,0.76
+C00639,DE,1,IT,0.6
+C00640,AT,10,Logistics,0.85
+C00641,DE,14,IT,0.5
+C00642,DE,4,Manufacturing,0.36
+C00643,DE,7,Logistics,0.53
+C00644,DE,0,Manufacturing,0.71
+C00645,DE,13,IT,0.35
+C00646,DE,0,Manufacturing,0.42
+C00647,DE,18,Healthcare,0.32
+C00648,DE,9,Logistics,0.22
+C00649,DE,20,Manufacturing,0.46
+C00650,DE,8,Healthcare,0.83
+C00651,DE,4,Logistics,0.87
+C00652,DE,15,IT,0.68
+C00653,DE,8,Office & Admin,0.84
+C00654,AT,12,Manufacturing,0.7
+C00655,DE,0,Logistics,0.82
+C00656,DE,1,Manufacturing,0.49
+C00657,AT,6,IT,0.18
+C00658,DE,1,Office & Admin,0.75
+C00659,DE,12,Manufacturing,0.4
+C00660,DE,8,Logistics,0.78
+C00661,DE,14,Manufacturing,0.71
+C00662,AT,8,Healthcare,0.37
+C00663,DE,13,Office & Admin,0.24
+C00664,DE,4,Healthcare,0.72
+C00665,DE,13,Logistics,0.81
+C00666,DE,11,Logistics,0.92
+C00667,AT,3,Healthcare,0.48
+C00668,AT,17,Office & Admin,0.67
+C00669,DE,3,Healthcare,0.85
+C00670,DE,19,IT,0.59
+C00671,DE,5,Office & Admin,0.91
+C00672,DE,5,Healthcare,0.58
+C00673,DE,15,Office & Admin,0.52
+C00674,DE,9,Office & Admin,0.9
+C00675,DE,9,Logistics,0.76
+C00676,DE,6,Logistics,0.52
+C00677,AT,11,Logistics,0.27
+C00678,AT,0,Logistics,0.94
+C00679,DE,5,Logistics,0.26
+C00680,AT,11,Manufacturing,0.64
+C00681,DE,11,Logistics,0.57
+C00682,AT,1,Office & Admin,0.84
+C00683,DE,10,Healthcare,0.63
+C00684,DE,9,Office & Admin,0.57
+C00685,DE,3,IT,0.57
+C00686,AT,6,Office & Admin,0.2
+C00687,DE,6,Office & Admin,0.69
+C00688,AT,3,Manufacturing,0.44
+C00689,DE,12,Manufacturing,0.89
+C00690,DE,6,Office & Admin,0.21
+C00691,AT,8,Manufacturing,0.49
+C00692,AT,11,Office & Admin,0.67
+C00693,AT,0,Logistics,0.81
+C00694,DE,15,IT,0.49
+C00695,AT,12,IT,0.35
+C00696,DE,12,IT,0.68
+C00697,AT,4,Office & Admin,0.37
+C00698,DE,14,Logistics,0.43
+C00699,DE,11,Logistics,0.77
+C00700,DE,12,Manufacturing,0.5
+C00701,DE,7,Logistics,0.4
+C00702,DE,5,Manufacturing,0.18
+C00703,AT,0,Manufacturing,0.86
+C00704,DE,20,Healthcare,0.98
+C00705,DE,14,Office & Admin,0.49
+C00706,AT,2,Logistics,0.84
+C00707,DE,9,Healthcare,0.86
+C00708,DE,19,Manufacturing,0.77
+C00709,DE,21,Office & Admin,0.24
+C00710,DE,5,Manufacturing,0.8
+C00711,DE,2,Logistics,0.91
+C00712,DE,1,Healthcare,0.85
+C00713,DE,14,Manufacturing,0.96
+C00714,AT,0,Office & Admin,0.42
+C00715,DE,10,IT,0.55
+C00716,DE,12,Manufacturing,0.61
+C00717,DE,2,IT,0.65
+C00718,DE,8,IT,0.8
+C00719,AT,12,Office & Admin,0.86
+C00720,DE,16,Healthcare,0.99
+C00721,DE,4,Office & Admin,0.64
+C00722,AT,11,Logistics,0.42
+C00723,DE,8,Healthcare,0.33
+C00724,DE,8,Logistics,0.57
+C00725,DE,11,Healthcare,0.86
+C00726,AT,3,Logistics,0.52
+C00727,AT,9,Logistics,0.58
+C00728,DE,15,IT,0.97
+C00729,DE,4,Office & Admin,0.91
+C00730,DE,7,Office & Admin,0.96
+C00731,AT,12,Logistics,0.4
+C00732,DE,5,IT,0.36
+C00733,DE,0,Healthcare,0.75
+C00734,AT,0,Manufacturing,0.72
+C00735,AT,14,Logistics,0.48
+C00736,DE,4,IT,0.46
+C00737,DE,19,Manufacturing,0.86
+C00738,AT,11,Healthcare,0.54
+C00739,AT,4,Healthcare,0.56
+C00740,DE,2,Manufacturing,0.46
+C00741,AT,9,Office & Admin,0.88
+C00742,DE,7,Office & Admin,0.82
+C00743,DE,5,Healthcare,0.81
+C00744,DE,11,Manufacturing,0.87
+C00745,DE,15,Manufacturing,0.26
+C00746,AT,8,Office & Admin,0.61
+C00747,AT,14,Logistics,0.46
+C00748,DE,10,Healthcare,0.8
+C00749,DE,3,Manufacturing,0.52
+C00750,AT,15,Healthcare,0.74
+C00751,AT,7,Manufacturing,0.48
+C00752,AT,13,Manufacturing,0.61
+C00753,DE,10,Office & Admin,0.35
+C00754,DE,10,Office & Admin,0.78
+C00755,AT,17,Logistics,0.1
+C00756,DE,12,Office & Admin,0.54
+C00757,AT,18,Manufacturing,0.46
+C00758,DE,14,Manufacturing,0.3
+C00759,AT,18,IT,0.65
+C00760,AT,5,Office & Admin,0.74
+C00761,AT,5,Office & Admin,0.38
+C00762,AT,15,IT,0.52
+C00763,DE,1,Manufacturing,0.6
+C00764,DE,19,IT,0.57
+C00765,AT,9,Manufacturing,0.98
+C00766,AT,8,Manufacturing,0.95
+C00767,DE,17,Manufacturing,0.47
+C00768,AT,9,Healthcare,0.24
+C00769,AT,4,Healthcare,0.97
+C00770,DE,3,Office & Admin,0.19
+C00771,DE,4,Manufacturing,0.96
+C00772,DE,9,Manufacturing,0.85
+C00773,DE,6,IT,0.74
+C00774,DE,10,IT,0.92
+C00775,DE,4,Healthcare,0.35
+C00776,DE,9,Logistics,0.97
+C00777,DE,8,Healthcare,0.43
+C00778,AT,1,Healthcare,1.0
+C00779,DE,12,Healthcare,0.49
+C00780,DE,10,Healthcare,0.66
+C00781,DE,1,Healthcare,0.65
+C00782,DE,10,Healthcare,0.59
+C00783,AT,16,Logistics,0.12
+C00784,DE,6,Logistics,0.4
+C00785,DE,10,Office & Admin,0.3
+C00786,DE,9,Logistics,0.35
+C00787,DE,10,Office & Admin,0.87
+C00788,AT,8,IT,0.54
+C00789,DE,7,Office & Admin,0.63
+C00790,DE,0,IT,0.35
+C00791,DE,7,Manufacturing,0.87
+C00792,DE,14,Manufacturing,0.52
+C00793,AT,12,Manufacturing,0.53
+C00794,DE,16,Manufacturing,0.74
+C00795,DE,3,IT,0.18
+C00796,AT,12,Office & Admin,0.43
+C00797,AT,11,Healthcare,0.52
+C00798,DE,8,Office & Admin,0.8
+C00799,DE,11,Logistics,0.7
+C00800,AT,12,IT,0.29
+C00801,DE,12,Office & Admin,0.55
+C00802,DE,12,Logistics,0.81
+C00803,DE,10,Manufacturing,0.38
+C00804,DE,2,Logistics,0.88
+C00805,DE,17,Manufacturing,0.49
+C00806,DE,3,Manufacturing,0.53
+C00807,AT,0,Logistics,0.57
+C00808,DE,10,Logistics,0.47
+C00809,DE,6,Logistics,0.78
+C00810,DE,0,Office & Admin,0.62
+C00811,DE,20,Logistics,0.42
+C00812,DE,9,Logistics,0.68
+C00813,AT,20,Healthcare,0.72
+C00814,AT,1,IT,0.78
+C00815,AT,13,Office & Admin,0.49
+C00816,DE,0,Office & Admin,0.53
+C00817,DE,16,Office & Admin,0.27
+C00818,DE,2,Logistics,0.91
+C00819,DE,4,Manufacturing,0.61
+C00820,AT,10,Manufacturing,0.46
+C00821,DE,5,Office & Admin,0.69
+C00822,DE,19,Office & Admin,0.46
+C00823,AT,3,Logistics,0.82
+C00824,DE,15,IT,0.83
+C00825,AT,6,IT,0.65
+C00826,DE,12,IT,0.2
+C00827,DE,0,Manufacturing,0.74
+C00828,DE,19,Logistics,0.85
+C00829,DE,1,Logistics,0.9
+C00830,DE,1,Logistics,0.62
+C00831,AT,8,Healthcare,0.92
+C00832,DE,7,Healthcare,0.7
+C00833,DE,13,Manufacturing,0.36
+C00834,DE,10,Office & Admin,0.87
+C00835,DE,12,Logistics,0.7
+C00836,DE,9,Healthcare,0.43
+C00837,AT,5,Healthcare,0.76
+C00838,DE,16,Logistics,0.19
+C00839,DE,11,Logistics,0.72
+C00840,DE,5,Healthcare,0.47
+C00841,DE,10,Office & Admin,0.78
+C00842,DE,8,Office & Admin,0.42
+C00843,DE,4,Logistics,0.53
+C00844,DE,8,Logistics,0.88
+C00845,DE,10,IT,0.98
+C00846,DE,5,Logistics,0.89
+C00847,DE,0,Logistics,0.78
+C00848,DE,1,Manufacturing,0.6
+C00849,DE,5,Office & Admin,0.55
+C00850,DE,20,Logistics,0.81
+C00851,DE,7,Logistics,0.87
+C00852,DE,6,Healthcare,0.87
+C00853,DE,5,Office & Admin,0.87
+C00854,DE,5,Manufacturing,0.34
+C00855,DE,1,Logistics,0.73
+C00856,DE,6,IT,0.93
+C00857,DE,20,Healthcare,0.6
+C00858,DE,6,Logistics,0.6
+C00859,DE,9,Healthcare,0.77
+C00860,AT,0,Office & Admin,0.23
+C00861,DE,7,Healthcare,0.97
+C00862,DE,17,Manufacturing,0.63
+C00863,DE,14,Office & Admin,0.9
+C00864,DE,18,Logistics,0.33
+C00865,AT,17,Office & Admin,0.51
+C00866,DE,9,Logistics,0.27
+C00867,DE,17,Logistics,0.22
+C00868,AT,21,Logistics,0.93
+C00869,DE,6,Logistics,0.52
+C00870,AT,0,Manufacturing,0.46
+C00871,DE,3,Logistics,0.44
+C00872,DE,5,Logistics,0.72
+C00873,AT,10,IT,0.84
+C00874,DE,0,Logistics,0.52
+C00875,AT,10,Logistics,0.24
+C00876,DE,9,Healthcare,0.76
+C00877,DE,13,Healthcare,0.47
+C00878,DE,9,Office & Admin,0.83
+C00879,DE,4,Healthcare,0.55
+C00880,DE,12,Logistics,0.56
+C00881,DE,7,Office & Admin,0.92
+C00882,DE,11,Healthcare,0.57
+C00883,DE,2,Logistics,0.72
+C00884,AT,2,Logistics,0.42
+C00885,DE,9,Manufacturing,0.88
+C00886,DE,0,Logistics,0.2
+C00887,AT,5,Manufacturing,0.47
+C00888,DE,0,Manufacturing,0.89
+C00889,DE,8,Logistics,0.95
+C00890,DE,1,IT,0.8
+C00891,AT,0,Office & Admin,0.82
+C00892,DE,10,Healthcare,0.83
+C00893,DE,8,Office & Admin,0.45
+C00894,DE,10,Logistics,0.53
+C00895,DE,4,IT,0.43
+C00896,AT,5,IT,0.8
+C00897,DE,11,IT,0.34
+C00898,AT,16,Manufacturing,0.93
+C00899,DE,19,Office & Admin,0.61
+C00900,DE,8,Manufacturing,0.49
+C00901,DE,6,IT,0.52
+C00902,DE,11,Manufacturing,0.67
+C00903,AT,0,Office & Admin,0.56
+C00904,DE,16,Healthcare,0.74
+C00905,AT,10,Office & Admin,0.87
+C00906,AT,1,Logistics,0.96
+C00907,DE,5,Manufacturing,0.54
+C00908,DE,10,Manufacturing,0.68
+C00909,AT,13,Logistics,0.24
+C00910,AT,10,Manufacturing,0.84
+C00911,DE,0,IT,0.94
+C00912,AT,10,Office & Admin,0.64
+C00913,DE,9,Logistics,0.35
+C00914,DE,7,Healthcare,0.61
+C00915,DE,12,Healthcare,0.6
+C00916,DE,0,IT,0.51
+C00917,AT,7,Office & Admin,0.59
+C00918,DE,15,Office & Admin,0.48
+C00919,AT,5,Logistics,0.59
+C00920,DE,15,Healthcare,0.44
+C00921,DE,21,Manufacturing,0.84
+C00922,DE,11,Logistics,0.85
+C00923,DE,2,Logistics,0.95
+C00924,DE,12,Healthcare,0.79
+C00925,AT,12,IT,0.65
+C00926,DE,8,Logistics,0.87
+C00927,DE,5,IT,0.5
+C00928,DE,1,Manufacturing,0.74
+C00929,DE,16,Manufacturing,0.53
+C00930,DE,12,IT,0.97
+C00931,DE,8,Logistics,0.65
+C00932,DE,19,Healthcare,0.83
+C00933,DE,14,IT,0.52
+C00934,AT,9,Office & Admin,0.81
+C00935,AT,11,Logistics,0.51
+C00936,DE,4,Manufacturing,0.47
+C00937,DE,5,Logistics,0.39
+C00938,DE,6,Office & Admin,0.76
+C00939,DE,6,Manufacturing,0.6
+C00940,DE,0,IT,0.88
+C00941,DE,2,Logistics,0.83
+C00942,DE,19,Logistics,0.15
+C00943,DE,10,Manufacturing,0.43
+C00944,DE,9,Healthcare,0.15
+C00945,DE,21,Healthcare,0.93
+C00946,DE,8,Manufacturing,0.76
+C00947,DE,15,Office & Admin,0.9
+C00948,AT,4,Manufacturing,0.32
+C00949,DE,13,Logistics,0.68
+C00950,AT,3,Healthcare,0.83
+C00951,DE,9,Logistics,0.59
+C00952,DE,9,IT,0.96
+C00953,DE,11,Healthcare,0.84
+C00954,DE,10,Healthcare,0.1
+C00955,AT,3,Logistics,0.61
+C00956,AT,10,IT,0.7
+C00957,AT,23,Logistics,0.35
+C00958,DE,10,IT,0.38
+C00959,DE,3,IT,0.34
+C00960,DE,10,IT,0.92
+C00961,AT,5,Office & Admin,0.79
+C00962,AT,14,Logistics,0.73
+C00963,DE,16,IT,0.72
+C00964,DE,17,Healthcare,0.64
+C00965,AT,7,IT,0.2
+C00966,DE,13,Manufacturing,0.56
+C00967,DE,0,Office & Admin,0.67
+C00968,DE,3,Office & Admin,0.14
+C00969,AT,4,IT,0.44
+C00970,DE,11,Manufacturing,0.62
+C00971,AT,7,Manufacturing,0.97
+C00972,AT,3,Healthcare,0.75
+C00973,DE,10,Manufacturing,0.46
+C00974,DE,18,Office & Admin,0.56
+C00975,DE,9,IT,0.63
+C00976,DE,12,Manufacturing,0.95
+C00977,AT,1,Manufacturing,0.34
+C00978,DE,11,Healthcare,0.9
+C00979,DE,13,Manufacturing,0.76
+C00980,DE,0,IT,0.68
+C00981,DE,9,Office & Admin,0.3
+C00982,DE,15,Office & Admin,0.71
+C00983,DE,10,Logistics,0.34
+C00984,DE,9,Logistics,0.72
+C00985,DE,14,Logistics,0.9
+C00986,DE,17,Logistics,0.63
+C00987,DE,12,Manufacturing,0.24
+C00988,DE,14,Healthcare,0.89
+C00989,AT,0,Manufacturing,0.77
+C00990,DE,5,Healthcare,0.8
+C00991,AT,12,Office & Admin,0.85
+C00992,AT,18,Logistics,0.55
+C00993,DE,10,Logistics,0.54
+C00994,DE,5,IT,0.97
+C00995,DE,9,Office & Admin,0.48
+C00996,DE,9,Manufacturing,0.12
+C00997,DE,13,Manufacturing,0.57
+C00998,AT,8,Manufacturing,0.44
+C00999,DE,20,Logistics,0.74
+C01000,DE,2,IT,0.64
+C01001,AT,6,Office & Admin,0.83
+C01002,DE,4,Office & Admin,0.37
+C01003,DE,11,IT,0.13
+C01004,DE,17,Logistics,0.2
+C01005,DE,8,Logistics,0.75
+C01006,DE,1,Logistics,0.76
+C01007,AT,1,Manufacturing,0.83
+C01008,DE,4,Office & Admin,0.1
+C01009,DE,18,Logistics,0.58
+C01010,DE,13,Manufacturing,0.83
+C01011,AT,14,Healthcare,0.96
+C01012,DE,1,Office & Admin,0.53
+C01013,DE,8,IT,0.48
+C01014,DE,10,Office & Admin,0.1
+C01015,DE,21,Logistics,0.82
+C01016,DE,15,Office & Admin,0.65
+C01017,AT,6,IT,0.93
+C01018,DE,6,Manufacturing,0.8
+C01019,DE,0,Logistics,0.92
+C01020,DE,7,IT,0.54
+C01021,AT,8,Office & Admin,0.41
+C01022,DE,16,Logistics,0.68
+C01023,DE,15,Logistics,0.87
+C01024,AT,19,Logistics,0.1
+C01025,AT,10,Office & Admin,0.67
+C01026,DE,15,IT,0.6
+C01027,AT,3,Office & Admin,0.71
+C01028,DE,19,Healthcare,0.24
+C01029,AT,2,Office & Admin,0.84
+C01030,AT,15,Office & Admin,0.64
+C01031,DE,10,Manufacturing,0.91
+C01032,DE,7,Healthcare,0.36
+C01033,DE,23,Office & Admin,0.11
+C01034,DE,8,Healthcare,0.59
+C01035,DE,2,Manufacturing,0.7
+C01036,AT,5,IT,0.4
+C01037,AT,6,Logistics,0.76
+C01038,DE,7,Logistics,0.1
+C01039,DE,13,Logistics,0.95
+C01040,DE,7,Healthcare,0.8
+C01041,AT,9,Logistics,0.73
+C01042,DE,9,Logistics,0.43
+C01043,DE,11,Office & Admin,0.84
+C01044,AT,7,Logistics,0.65
+C01045,AT,7,IT,0.65
+C01046,DE,0,IT,0.29
+C01047,DE,9,Manufacturing,0.7
+C01048,DE,12,Logistics,0.24
+C01049,AT,18,Manufacturing,0.23
+C01050,DE,21,IT,0.38
+C01051,DE,7,Logistics,0.86
+C01052,DE,12,Manufacturing,0.57
+C01053,AT,14,Office & Admin,0.32
+C01054,AT,12,IT,0.65
+C01055,AT,10,Healthcare,0.7
+C01056,DE,18,Logistics,0.49
+C01057,AT,0,Manufacturing,0.76
+C01058,DE,17,IT,0.95
+C01059,DE,1,Manufacturing,0.52
+C01060,DE,9,Logistics,0.48
+C01061,DE,0,Office & Admin,0.82
+C01062,DE,6,Logistics,0.31
+C01063,AT,13,Logistics,0.58
+C01064,DE,8,Healthcare,0.37
+C01065,DE,4,Logistics,0.74
+C01066,DE,17,IT,0.76
+C01067,DE,0,Manufacturing,0.47
+C01068,DE,13,Manufacturing,0.86
+C01069,DE,12,Manufacturing,0.54
+C01070,AT,10,IT,0.26
+C01071,DE,12,IT,0.54
+C01072,DE,0,Office & Admin,0.58
+C01073,DE,13,Logistics,0.89
+C01074,AT,9,Manufacturing,0.66
+C01075,DE,15,Logistics,0.69
+C01076,DE,9,Healthcare,0.46
+C01077,DE,14,Healthcare,0.9
+C01078,DE,7,Manufacturing,0.49
+C01079,AT,10,Office & Admin,0.63
+C01080,AT,10,Office & Admin,0.94
+C01081,DE,0,Logistics,0.63
+C01082,AT,8,Manufacturing,0.87
+C01083,DE,7,Logistics,0.63
+C01084,DE,14,Healthcare,0.96
+C01085,AT,21,Manufacturing,0.37
+C01086,DE,3,Manufacturing,0.23
+C01087,AT,7,Manufacturing,0.84
+C01088,DE,0,Manufacturing,0.83
+C01089,AT,5,Healthcare,0.86
+C01090,DE,8,Healthcare,0.85
+C01091,AT,14,Office & Admin,0.79
+C01092,DE,10,Manufacturing,0.59
+C01093,DE,14,Healthcare,0.37
+C01094,AT,12,IT,0.91
+C01095,DE,9,Office & Admin,0.41
+C01096,AT,0,Manufacturing,0.21
+C01097,DE,17,Office & Admin,0.48
+C01098,DE,16,IT,0.85
+C01099,AT,17,Office & Admin,0.96
+C01100,DE,10,Office & Admin,0.8
+C01101,DE,8,Logistics,0.94
+C01102,DE,7,Manufacturing,0.77
+C01103,DE,4,Logistics,0.23
+C01104,DE,5,Logistics,0.41
+C01105,AT,12,Office & Admin,0.55
+C01106,DE,7,Office & Admin,0.73
+C01107,AT,0,Manufacturing,0.55
+C01108,DE,9,Manufacturing,0.6
+C01109,DE,12,Manufacturing,0.76
+C01110,AT,0,Manufacturing,0.36
+C01111,DE,14,Logistics,0.43
+C01112,AT,4,Logistics,0.27
+C01113,AT,10,Office & Admin,0.89
+C01114,DE,7,Healthcare,0.57
+C01115,DE,6,Office & Admin,0.36
+C01116,DE,3,Logistics,0.42
+C01117,AT,1,Office & Admin,0.53
+C01118,DE,4,Manufacturing,0.76
+C01119,DE,17,Logistics,0.21
+C01120,AT,7,Healthcare,0.61
+C01121,DE,13,Manufacturing,0.97
+C01122,DE,16,Manufacturing,0.88
+C01123,DE,4,Healthcare,0.54
+C01124,DE,2,Manufacturing,0.81
+C01125,DE,0,Healthcare,0.12
+C01126,DE,9,Logistics,0.32
+C01127,AT,4,IT,0.93
+C01128,AT,23,Office & Admin,0.31
+C01129,DE,2,Manufacturing,0.57
+C01130,DE,12,Manufacturing,0.86
+C01131,DE,13,IT,0.1
+C01132,DE,10,Logistics,0.98
+C01133,AT,0,Logistics,0.83
+C01134,AT,14,Manufacturing,0.19
+C01135,DE,3,Manufacturing,0.2
+C01136,DE,6,Manufacturing,0.95
+C01137,AT,5,Office & Admin,0.95
+C01138,AT,12,Manufacturing,0.78
+C01139,DE,10,Manufacturing,0.67
+C01140,AT,17,Office & Admin,0.45
+C01141,DE,4,Manufacturing,0.46
+C01142,AT,10,Office & Admin,0.88
+C01143,DE,16,Healthcare,0.61
+C01144,AT,5,Manufacturing,0.14
+C01145,DE,1,Logistics,0.8
+C01146,AT,15,IT,0.46
+C01147,DE,17,Logistics,0.97
+C01148,DE,12,Manufacturing,0.36
+C01149,DE,0,Manufacturing,0.1
+C01150,DE,6,Manufacturing,0.1
+C01151,DE,9,Manufacturing,0.82
+C01152,DE,8,Manufacturing,0.77
+C01153,DE,7,IT,0.92
+C01154,DE,9,Manufacturing,0.69
+C01155,DE,2,Healthcare,0.99
+C01156,DE,1,Manufacturing,0.94
+C01157,DE,20,IT,0.54
+C01158,DE,10,Healthcare,0.93
+C01159,DE,6,IT,0.21
+C01160,AT,10,Logistics,0.34
+C01161,DE,3,Office & Admin,0.93
+C01162,DE,8,Manufacturing,0.77
+C01163,DE,14,Logistics,0.59
+C01164,DE,8,IT,0.24
+C01165,DE,7,Logistics,0.84
+C01166,DE,11,Healthcare,0.56
+C01167,DE,5,Logistics,0.55
+C01168,DE,14,Healthcare,0.95
+C01169,AT,20,Manufacturing,0.73
+C01170,AT,9,IT,0.34
+C01171,DE,5,Office & Admin,0.72
+C01172,AT,0,Office & Admin,0.91
+C01173,AT,11,IT,0.86
+C01174,AT,5,Healthcare,0.64
+C01175,AT,10,Office & Admin,0.98
+C01176,DE,10,Office & Admin,0.85
+C01177,AT,16,Manufacturing,0.62
+C01178,DE,6,Logistics,0.5
+C01179,DE,20,Manufacturing,0.89
+C01180,DE,2,Healthcare,0.76
+C01181,DE,1,Healthcare,0.84
+C01182,AT,13,Logistics,0.21
+C01183,DE,12,Healthcare,0.97
+C01184,DE,6,Healthcare,0.73
+C01185,DE,5,Logistics,0.49
+C01186,AT,14,Manufacturing,0.73
+C01187,DE,11,Office & Admin,0.15
+C01188,DE,8,IT,0.57
+C01189,DE,12,Manufacturing,0.75
+C01190,AT,9,Logistics,0.35
+C01191,AT,10,Office & Admin,0.72
+C01192,AT,7,Office & Admin,0.22
+C01193,DE,11,Logistics,0.76
+C01194,DE,1,Manufacturing,0.79
+C01195,DE,5,Office & Admin,0.24
+C01196,AT,3,Manufacturing,0.87
+C01197,DE,0,Healthcare,0.28
+C01198,DE,6,Healthcare,0.81
+C01199,DE,8,IT,0.83
+C01200,AT,12,IT,0.46
+C01201,DE,9,Office & Admin,0.1
+C01202,DE,9,Healthcare,0.79
+C01203,AT,9,Healthcare,0.58
+C01204,DE,13,IT,0.83
+C01205,DE,7,Logistics,0.49
+C01206,AT,9,IT,0.87
+C01207,DE,5,IT,0.21
+C01208,DE,15,Logistics,0.73
+C01209,DE,0,Manufacturing,0.54
+C01210,DE,14,IT,0.62
+C01211,DE,2,Manufacturing,0.65
+C01212,AT,15,Office & Admin,0.71
+C01213,DE,0,Healthcare,0.78
+C01214,DE,10,Office & Admin,0.92
+C01215,DE,9,IT,0.47
+C01216,DE,14,Manufacturing,0.85
+C01217,DE,13,IT,0.22
+C01218,DE,6,Logistics,0.62
+C01219,AT,14,IT,0.29
+C01220,DE,9,Healthcare,0.67
+C01221,DE,20,Manufacturing,0.78
+C01222,DE,16,Logistics,0.52
+C01223,DE,0,IT,0.3
+C01224,DE,8,Office & Admin,0.26
+C01225,AT,0,Manufacturing,0.78
+C01226,AT,8,IT,0.23
+C01227,DE,13,Healthcare,0.67
+C01228,AT,0,Healthcare,0.86
+C01229,DE,7,Logistics,0.49
+C01230,DE,1,Office & Admin,0.41
+C01231,DE,7,Logistics,0.28
+C01232,AT,4,Office & Admin,0.56
+C01233,DE,7,Manufacturing,0.71
+C01234,DE,15,Manufacturing,0.91
+C01235,AT,3,Manufacturing,0.85
+C01236,AT,0,Manufacturing,0.82
+C01237,DE,1,Office & Admin,0.88
+C01238,AT,14,Logistics,0.9
+C01239,DE,8,Logistics,0.83
+C01240,DE,6,Office & Admin,0.52
+C01241,DE,9,Manufacturing,0.99
+C01242,AT,30,Logistics,0.72
+C01243,DE,7,Manufacturing,0.37
+C01244,DE,22,Office & Admin,0.69
+C01245,DE,10,Logistics,0.89
+C01246,DE,9,Logistics,0.49
+C01247,DE,3,Healthcare,0.43
+C01248,AT,6,Manufacturing,0.63
+C01249,AT,7,Healthcare,0.66
+C01250,AT,5,IT,0.54
+C01251,DE,10,IT,0.95
+C01252,AT,5,Office & Admin,0.79
+C01253,DE,11,IT,0.47
+C01254,AT,11,Office & Admin,0.81
+C01255,AT,8,Manufacturing,0.34
+C01256,DE,14,Healthcare,0.59
+C01257,AT,12,Logistics,0.2
+C01258,DE,13,Office & Admin,0.96
+C01259,DE,6,Manufacturing,0.74
+C01260,DE,10,IT,0.49
+C01261,DE,13,IT,0.76
+C01262,DE,22,Office & Admin,0.54
+C01263,AT,10,IT,0.99
+C01264,AT,9,Office & Admin,0.87
+C01265,DE,12,Logistics,0.57
+C01266,DE,15,Healthcare,0.81
+C01267,DE,9,Office & Admin,0.53
+C01268,DE,10,Logistics,0.55
+C01269,DE,6,Logistics,0.7
+C01270,AT,15,Manufacturing,0.72
+C01271,DE,1,Logistics,0.44
+C01272,DE,0,Healthcare,0.28
+C01273,DE,13,Manufacturing,0.98
+C01274,DE,13,Logistics,0.69
+C01275,DE,6,Manufacturing,0.73
+C01276,AT,4,Manufacturing,0.29
+C01277,DE,4,Logistics,0.3
+C01278,AT,10,IT,0.97
+C01279,DE,16,IT,0.36
+C01280,DE,12,Healthcare,0.28
+C01281,DE,4,Manufacturing,0.66
+C01282,DE,6,Logistics,0.92
+C01283,DE,3,Logistics,0.44
+C01284,DE,12,Logistics,0.88
+C01285,AT,8,Office & Admin,0.97
+C01286,DE,6,Logistics,0.85
+C01287,DE,6,Manufacturing,0.81
+C01288,DE,0,Manufacturing,0.68
+C01289,AT,11,Manufacturing,0.52
+C01290,DE,5,IT,0.58
+C01291,DE,7,Manufacturing,0.62
+C01292,DE,15,IT,0.79
+C01293,AT,13,Manufacturing,0.15
+C01294,DE,0,Manufacturing,0.74
+C01295,DE,0,Manufacturing,0.8
+C01296,DE,6,Logistics,0.51
+C01297,AT,8,Manufacturing,0.88
+C01298,DE,1,Logistics,0.4
+C01299,AT,11,Logistics,0.52
+C01300,DE,17,Office & Admin,0.84
+C01301,AT,8,Office & Admin,0.8
+C01302,AT,14,Logistics,0.7
+C01303,AT,15,Manufacturing,0.74
+C01304,DE,10,Office & Admin,0.45
+C01305,AT,14,Office & Admin,0.55
+C01306,DE,10,Manufacturing,0.97
+C01307,DE,13,Manufacturing,0.74
+C01308,DE,19,IT,0.76
+C01309,AT,13,Healthcare,0.16
+C01310,AT,10,Manufacturing,0.56
+C01311,DE,10,Office & Admin,0.72
+C01312,DE,3,Manufacturing,0.69
+C01313,DE,11,Manufacturing,0.5
+C01314,DE,3,Office & Admin,0.44
+C01315,DE,15,Office & Admin,0.18
+C01316,AT,5,Manufacturing,0.86
+C01317,DE,18,Office & Admin,0.59
+C01318,AT,15,IT,0.58
+C01319,DE,10,Logistics,0.47
+C01320,DE,12,Office & Admin,0.26
+C01321,DE,15,Logistics,0.72
+C01322,DE,8,Office & Admin,0.75
+C01323,DE,14,Logistics,0.32
+C01324,AT,4,Healthcare,0.35
+C01325,DE,9,Logistics,0.51
+C01326,DE,0,Manufacturing,0.55
+C01327,DE,0,Logistics,0.93
+C01328,AT,11,Logistics,0.81
+C01329,DE,14,Manufacturing,0.47
+C01330,DE,5,Manufacturing,0.64
+C01331,AT,12,Logistics,0.51
+C01332,DE,1,Manufacturing,0.31
+C01333,DE,15,IT,0.61
+C01334,AT,11,Logistics,0.8
+C01335,DE,13,Logistics,0.88
+C01336,DE,5,Manufacturing,0.71
+C01337,DE,2,Logistics,0.77
+C01338,DE,13,Office & Admin,0.79
+C01339,AT,7,Logistics,0.82
+C01340,DE,5,Manufacturing,0.81
+C01341,DE,14,Manufacturing,0.56
+C01342,AT,11,Office & Admin,0.69
+C01343,DE,11,Logistics,0.35
+C01344,DE,5,Logistics,0.38
+C01345,DE,6,IT,0.87
+C01346,DE,5,Manufacturing,0.68
+C01347,DE,7,Manufacturing,0.26
+C01348,DE,7,Manufacturing,0.7
+C01349,AT,9,Logistics,0.46
+C01350,AT,14,Manufacturing,0.49
+C01351,DE,0,IT,0.3
+C01352,DE,14,Office & Admin,0.32
+C01353,DE,8,Logistics,0.65
+C01354,DE,5,Healthcare,0.67
+C01355,AT,0,Healthcare,0.58
+C01356,DE,8,IT,0.54
+C01357,AT,13,Manufacturing,0.61
+C01358,DE,6,Office & Admin,0.5
+C01359,DE,19,Office & Admin,0.66
+C01360,DE,0,Healthcare,0.86
+C01361,AT,15,IT,0.52
+C01362,AT,12,Office & Admin,0.63
+C01363,DE,16,Healthcare,0.76
+C01364,DE,5,Office & Admin,0.41
+C01365,AT,14,Logistics,0.1
+C01366,DE,8,Healthcare,0.87
+C01367,DE,16,Office & Admin,0.71
+C01368,DE,11,Healthcare,0.58
+C01369,DE,16,Manufacturing,0.48
+C01370,DE,14,Manufacturing,0.81
+C01371,DE,15,Healthcare,0.96
+C01372,DE,12,Office & Admin,0.9
+C01373,DE,6,Healthcare,0.46
+C01374,DE,5,Logistics,0.72
+C01375,DE,7,Manufacturing,0.91
+C01376,DE,6,Manufacturing,0.55
+C01377,DE,14,Logistics,0.81
+C01378,DE,9,Logistics,0.36
+C01379,DE,8,Logistics,0.86
+C01380,DE,12,Logistics,0.78
+C01381,DE,14,IT,0.64
+C01382,DE,16,Healthcare,0.61
+C01383,DE,14,Logistics,0.1
+C01384,DE,11,Logistics,0.31
+C01385,DE,10,Office & Admin,0.82
+C01386,AT,7,IT,0.51
+C01387,DE,2,Manufacturing,0.98
+C01388,DE,15,Manufacturing,0.93
+C01389,DE,9,Office & Admin,0.69
+C01390,DE,5,Healthcare,0.97
+C01391,DE,6,Office & Admin,0.44
+C01392,DE,0,Office & Admin,0.5
+C01393,AT,7,Logistics,0.18
+C01394,AT,18,Office & Admin,0.38
+C01395,DE,6,Office & Admin,0.68
+C01396,DE,11,Logistics,0.73
+C01397,DE,12,Healthcare,0.34
+C01398,DE,7,Logistics,0.24
+C01399,DE,0,IT,0.91
+C01400,AT,7,Logistics,0.96
+C01401,AT,15,Healthcare,0.22
+C01402,DE,11,Manufacturing,0.73
+C01403,AT,6,Healthcare,0.91
+C01404,AT,0,Manufacturing,0.15
+C01405,DE,10,Office & Admin,0.61
+C01406,DE,13,Manufacturing,0.77
+C01407,AT,13,Office & Admin,0.37
+C01408,AT,8,IT,0.96
+C01409,DE,0,Office & Admin,0.35
+C01410,DE,9,Manufacturing,0.53
+C01411,AT,11,Office & Admin,0.1
+C01412,DE,3,IT,0.82
+C01413,DE,4,Logistics,0.62
+C01414,AT,4,Office & Admin,0.42
+C01415,DE,7,Logistics,0.12
+C01416,DE,2,Logistics,0.53
+C01417,AT,16,Logistics,0.87
+C01418,AT,0,Healthcare,0.2
+C01419,AT,2,Logistics,0.76
+C01420,AT,1,Healthcare,0.82
+C01421,DE,9,Office & Admin,0.2
+C01422,DE,9,Manufacturing,0.78
+C01423,DE,0,IT,0.16
+C01424,DE,13,Logistics,0.86
+C01425,DE,8,IT,0.18
+C01426,DE,11,Healthcare,0.9
+C01427,DE,7,Logistics,0.96
+C01428,DE,8,Logistics,0.88
+C01429,DE,18,Manufacturing,0.17
+C01430,DE,9,Office & Admin,0.59
+C01431,DE,9,Logistics,0.86
+C01432,DE,0,Healthcare,0.4
+C01433,DE,14,Logistics,0.73
+C01434,AT,22,IT,0.97
+C01435,DE,6,Healthcare,0.99
+C01436,DE,10,IT,0.69
+C01437,AT,3,Healthcare,0.82
+C01438,AT,5,Manufacturing,0.75
+C01439,DE,3,Logistics,0.74
+C01440,DE,13,Logistics,0.62
+C01441,AT,9,Manufacturing,0.22
+C01442,DE,10,Manufacturing,0.77
+C01443,DE,4,Manufacturing,0.51
+C01444,DE,16,IT,0.83
+C01445,AT,5,IT,0.95
+C01446,DE,15,IT,0.9
+C01447,DE,6,Healthcare,0.44
+C01448,AT,2,Logistics,0.52
+C01449,DE,6,Logistics,0.96
+C01450,DE,3,Office & Admin,0.92
+C01451,AT,2,Manufacturing,0.1
+C01452,DE,11,Manufacturing,0.65
+C01453,DE,14,Logistics,0.19
+C01454,DE,7,Healthcare,0.78
+C01455,DE,6,Logistics,0.68
+C01456,DE,7,Office & Admin,0.73
+C01457,DE,7,Office & Admin,1.0
+C01458,DE,0,Office & Admin,0.51
+C01459,DE,10,Office & Admin,0.82
+C01460,DE,16,Healthcare,0.91
+C01461,DE,7,Manufacturing,0.58
+C01462,DE,6,Manufacturing,0.81
+C01463,DE,16,IT,0.77
+C01464,DE,10,Manufacturing,0.62
+C01465,DE,7,Manufacturing,0.28
+C01466,DE,8,Manufacturing,0.82
+C01467,DE,13,Office & Admin,0.95
+C01468,AT,11,Manufacturing,0.89
+C01469,DE,9,Manufacturing,0.67
+C01470,DE,8,Logistics,0.5
+C01471,DE,18,IT,0.82
+C01472,AT,10,Logistics,0.88
+C01473,AT,11,Office & Admin,0.84
+C01474,DE,6,Logistics,0.7
+C01475,DE,15,Office & Admin,0.98
+C01476,DE,13,Office & Admin,0.93
+C01477,AT,0,Logistics,0.67
+C01478,DE,6,IT,0.52
+C01479,DE,0,Office & Admin,0.65
+C01480,DE,0,Manufacturing,0.56
+C01481,DE,8,Manufacturing,0.82
+C01482,AT,7,Office & Admin,0.7
+C01483,DE,6,IT,0.72
+C01484,DE,20,IT,0.96
+C01485,DE,9,IT,0.62
+C01486,DE,0,Healthcare,0.75
+C01487,DE,14,Logistics,0.49
+C01488,DE,3,Office & Admin,0.78
+C01489,DE,18,IT,0.51
+C01490,DE,15,Healthcare,0.93
+C01491,AT,9,Office & Admin,0.71
+C01492,DE,5,Manufacturing,0.44
+C01493,DE,0,IT,0.58
+C01494,DE,9,Healthcare,0.64
+C01495,AT,3,Office & Admin,0.13
+C01496,DE,16,Logistics,0.72
+C01497,AT,14,Office & Admin,0.95
+C01498,AT,4,Healthcare,0.94
+C01499,DE,5,IT,0.88
+C01500,DE,0,Healthcare,0.63

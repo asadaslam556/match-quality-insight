@@ -1,0 +1,81 @@
+job_id,country,job_family,seniority,created_at
+J0001,AT,Logistics,junior,2025-07-15
+J0002,DE,Office & Admin,mid,2025-06-27
+J0003,AT,Healthcare,mid,2025-06-15
+J0004,DE,Manufacturing,senior,2025-06-27
+J0005,AT,Logistics,senior,2025-08-01
+J0006,DE,Logistics,junior,2025-07-20
+J0007,DE,Logistics,senior,2025-06-11
+J0008,DE,Healthcare,senior,2025-06-29
+J0009,AT,Logistics,junior,2025-07-27
+J0010,DE,Office & Admin,mid,2025-07-24
+J0011,DE,Logistics,mid,2025-07-10
+J0012,AT,Healthcare,mid,2025-06-29
+J0013,DE,Healthcare,junior,2025-06-19
+J0014,DE,IT,junior,2025-07-26
+J0015,DE,Manufacturing,senior,2025-08-20
+J0016,AT,Logistics,senior,2025-08-20
+J0017,DE,Logistics,junior,2025-08-10
+J0018,AT,Healthcare,senior,2025-08-18
+J0019,AT,Office & Admin,senior,2025-08-04
+J0020,DE,Logistics,senior,2025-06-09
+J0021,DE,Office & Admin,junior,2025-08-26
+J0022,DE,IT,mid,2025-08-07
+J0023,DE,Logistics,junior,2025-07-31
+J0024,DE,Manufacturing,junior,2025-08-14
+J0025,DE,Office & Admin,junior,2025-08-19
+J0026,DE,Healthcare,junior,2025-06-30
+J0027,DE,Logistics,junior,2025-06-28
+J0028,DE,Office & Admin,mid,2025-07-11
+J0029,AT,Office & Admin,junior,2025-07-29
+J0030,DE,Healthcare,mid,2025-08-07
+J0031,DE,Manufacturing,senior,2025-06-10
+J0032,DE,Manufacturing,junior,2025-07-27
+J0033,DE,Logistics,junior,2025-08-01
+J0034,DE,Office & Admin,mid,2025-06-16
+J0035,DE,Logistics,mid,2025-07-28
+J0036,AT,Healthcare,junior,2025-06-07
+J0037,DE,IT,mid,2025-06-07
+J0038,DE,IT,senior,2025-07-31
+J0039,DE,Manufacturing,junior,2025-08-24
+J0040,DE,Logistics,junior,2025-08-06
+J0041,AT,Manufacturing,mid,2025-08-17
+J0042,DE,Office & Admin,mid,2025-08-07
+J0043,AT,IT,senior,2025-07-13
+J0044,DE,IT,junior,2025-06-26
+J0045,DE,Healthcare,junior,2025-07-19
+J0046,DE,Office & Admin,mid,2025-07-11
+J0047,AT,Healthcare,junior,2025-06-04
+J0048,DE,IT,junior,2025-07-06
+J0049,DE,Office & Admin,junior,2025-08-07
+J0050,DE,IT,mid,2025-08-03
+J0051,DE,Healthcare,mid,2025-08-24
+J0052,AT,Logistics,mid,2025-07-10
+J0053,AT,Logistics,mid,2025-07-11
+J0054,DE,Manufacturing,senior,2025-06-21
+J0055,DE,Logistics,junior,2025-07-30
+J0056,DE,Logistics,junior,2025-07-20
+J0057,DE,Healthcare,junior,2025-08-05
+J0058,DE,Manufacturing,mid,2025-06-09
+J0059,AT,Logistics,senior,2025-06-22
+J0060,DE,Healthcare,mid,2025-07-10
+J0061,DE,Manufacturing,mid,2025-06-30
+J0062,DE,Healthcare,mid,2025-06-06
+J0063,DE,Healthcare,senior,2025-08-21
+J0064,DE,Logistics,junior,2025-08-10
+J0065,DE,Logistics,junior,2025-07-08
+J0066,DE,Office & Admin,senior,2025-08-13
+J0067,DE,Manufacturing,senior,2025-07-23
+J0068,DE,Office & Admin,senior,2025-06-24
+J0069,DE,Logistics,senior,2025-07-16
+J0070,DE,Logistics,mid,2025-06-10
+J0071,DE,Manufacturing,junior,2025-07-13
+J0072,AT,IT,mid,2025-07-07
+J0073,AT,IT,senior,2025-07-18
+J0074,DE,Logistics,mid,2025-06-26
+J0075,AT,Healthcare,senior,2025-06-23
+J0076,DE,Logistics,mid,2025-06-09
+J0077,DE,Healthcare,mid,2025-08-02
+J0078,AT,Logistics,mid,2025-08-26
+J0079,DE,IT,junior,2025-07-21
+J0080,DE,Healthcare,junior,2025-07-24

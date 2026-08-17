@@ -1,0 +1,7 @@
+# Normalise text files to LF inside the repository.
+* text=auto
+
+# The four provided datasets ship with CRLF line endings. Disable conversion entirely so
+# they stay byte for byte identical to the files supplied with the assignment, whatever
+# platform they are committed from or checked out on.
+*.csv -text
